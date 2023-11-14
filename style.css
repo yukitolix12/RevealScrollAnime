@@ -37,3 +37,10 @@ section {
     justify-content: center;
     align-items: center;
 }
+
+.content .image {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+}
