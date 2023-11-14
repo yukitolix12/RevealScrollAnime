@@ -55,3 +55,14 @@ section {
     border-radius: 10px;
     z-index: 10;
 }
+
+.content .text-box {
+    z-index: 20;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 40px;
+    max-width: 400px;
+    transform: translate(-80px, 50px);
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    border-radius: 1px solid rgba(255, 255, 255, 0.1);
+}
