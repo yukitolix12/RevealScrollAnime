@@ -75,3 +75,9 @@ section {
 .media-icons {
     margin-top: 100px;
 }
+
+.media-icons a {
+    color: white;
+    font-size: 2rem;
+    margin: 60px;
+}
