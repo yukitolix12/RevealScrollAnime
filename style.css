@@ -81,3 +81,9 @@ section {
     font-size: 2rem;
     margin: 60px;
 }
+
+/* section02 */
+.section-title {
+    font-size: 3rem;
+    margin-bottom: 80px;
+}
