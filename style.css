@@ -92,3 +92,8 @@ section {
     font-size: 1.8rem;
     margin-bottom: 10px;
 }
+
+.info {
+    width: 700px;
+    margin-left: 50px;
+}
