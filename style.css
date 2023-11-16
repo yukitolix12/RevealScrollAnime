@@ -122,3 +122,8 @@ section {
 .media-info li:nth-child(5) {
     padding-left: 100px;
 }
+
+.media-info li:nth-child(1),
+.media-info li:nth-child(5) {
+    padding-left: 100px;
+}
