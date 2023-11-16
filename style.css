@@ -108,3 +108,8 @@ section {
     list-style: none;
     font-size: 1.4rem;
 }
+
+.media-info li a {
+    color: white;
+    text-decoration: none;
+}
