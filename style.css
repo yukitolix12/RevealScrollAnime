@@ -123,7 +123,7 @@ section {
     padding-left: 100px;
 }
 
-.media-info li:nth-child(1),
-.media-info li:nth-child(5) {
-    padding-left: 100px;
+.media-info li:nth-child(2),
+.media-info li:nth-child(4) {
+    padding-left: 50px;
 }
