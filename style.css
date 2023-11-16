@@ -113,3 +113,7 @@ section {
     color: white;
     text-decoration: none;
 }
+
+.media-info li:not(:last-child) {
+    margin-bottom: 50px;
+}
