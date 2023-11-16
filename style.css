@@ -103,3 +103,8 @@ section {
     width: 400px;
     margin-left: 50px;
 }
+
+.media-info li {
+    list-style: none;
+    font-size: 1.4rem;
+}
